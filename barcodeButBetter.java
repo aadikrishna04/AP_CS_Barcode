@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class betterBarcode {
+public class Barcode {
     public static Scanner console = new Scanner(System.in);
     public static void main(String[] args) {
         // run 'barcode' method
